@@ -1,1 +1,5 @@
+puts 'Hello, World'
+puts 'Hello, General Assembly'
+puts 'Hello, WDI'
 puts 'Hello, GIT'
+puts 'Hello, Atlanta'
