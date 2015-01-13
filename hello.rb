@@ -1,1 +1,1 @@
-puts 'Hello, WDI'
+puts 'Hello, GIT'
